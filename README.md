@@ -4,7 +4,7 @@ This repository contains the tasks completed during my **Python Programming Inte
 
 ---
 
-## 🚀 Task 1: Random Password Generator
+##🔐 Task 1: Random Password Generator
 
 ### Project Description
 
@@ -36,7 +36,7 @@ A versatile command-line tool that generates secure and random passwords. This p
 
 --- 
 
-## 🔐 Task 2: Command-Line BMI Calculator
+## 🚀  Task 2: Command-Line BMI Calculator
 
 ### Project Description
 
